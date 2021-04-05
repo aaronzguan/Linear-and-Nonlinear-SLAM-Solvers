@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89aa4d4a-d4be-4fd3-a9d6-d94867c691ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qibf9GhoQlKBS89W5cEoZfBuDW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/2d_nonlinear" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.nonlinear">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Homework3-Solvers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Homework3-Solvers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_set/linear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nonlinear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework3-Solvers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem_set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_set/nonlinear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nonlinear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89aa4d4a-d4be-4fd3-a9d6-d94867c691ed" name="Default Changelist" comment="" />
+      <created>1617565457995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617565457995</updated>
+      <workItem from="1617565479619" duration="23015000" />
+      <workItem from="1617634194453" duration="10135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617571399232">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="716" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.24.1873.1056@47.24.1873.1056" timestamp="1617571399231" />
+    <state width="533" height="466" key="DebuggerActiveHint" timestamp="1617590584559">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="533" height="466" key="DebuggerActiveHint/47.24.1873.1056@47.24.1873.1056" timestamp="1617590584559" />
+    <state x="1039" y="330" key="FileChooserDialogImpl" timestamp="1617649620331">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="1039" y="330" key="FileChooserDialogImpl/47.24.1873.1056@47.24.1873.1056" timestamp="1617649620331" />
+    <state width="1827" height="324" key="GridCell.Tab.0.bottom" timestamp="1617650748682">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.0.bottom/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748682" />
+    <state width="1827" height="324" key="GridCell.Tab.0.center" timestamp="1617650748682">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.0.center/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748682" />
+    <state width="1827" height="324" key="GridCell.Tab.0.left" timestamp="1617650748682">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.0.left/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748682" />
+    <state width="1827" height="324" key="GridCell.Tab.0.right" timestamp="1617650748682">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.0.right/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748682" />
+    <state width="1827" height="324" key="GridCell.Tab.1.bottom" timestamp="1617650748683">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.1.bottom/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748683" />
+    <state width="1827" height="324" key="GridCell.Tab.1.center" timestamp="1617650748683">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.1.center/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748683" />
+    <state width="1827" height="324" key="GridCell.Tab.1.left" timestamp="1617650748683">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.1.left/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748683" />
+    <state width="1827" height="324" key="GridCell.Tab.1.right" timestamp="1617650748683">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state width="1827" height="324" key="GridCell.Tab.1.right/47.24.1873.1056@47.24.1873.1056" timestamp="1617650748683" />
+    <state x="242" y="236" key="SettingsEditor" timestamp="1617571262788">
+      <screen x="47" y="24" width="1873" height="1056" />
+    </state>
+    <state x="242" y="236" key="SettingsEditor/47.24.1873.1056@47.24.1873.1056" timestamp="1617571262788" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework3_Solvers$linear.coverage" NAME="linear Coverage Results" MODIFIED="1617593993173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem_set" />
+    <SUITE FILE_PATH="coverage/Homework3_Solvers$nonlinear.coverage" NAME="nonlinear Coverage Results" MODIFIED="1617649203390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem_set" />
+  </component>
+</project>

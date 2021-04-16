@@ -1,6 +1,10 @@
 # Least-Square SLAM Problems - Linear and Nonlinear SLAM Solvers
 
-This is the homework in CMU 16833-Robot Localization and Mapping Spring 2021. Different from the EKF SLAM, which is proactive, the offline SLAM algorithm can be viewed as a Least-Square problem: it simply accumulates information and then perform the inference to minimize the Mahalanobis Distance between the observation and estimation. For the Non-linear least-square case, First-order Taylor serier expansion is used to linearize the system and **Gauss-Newton** iterative algorithm is used to update the solution until convergence.
+This is the homework in CMU 16833-Robot Localization and Mapping Spring 2021. Different from the EKF SLAM, which is proactive, the offline SLAM algorithm can be viewed as a Least-Square problem: it simply accumulates information and then perform the inference to minimize the Mahalanobis Distance between the observation and estimation. 
+
+For linear system, we can immediately get the results without iterations by solving the linear least-square problem |Ax-b|, where x is the state vectors including both robots and landmarks. The only question is how to formulate the A and b to solve the least-square problem.
+
+For a non-linear system, First-order Taylor serier expansion is used to linearize the system and **Gauss-Newton** iterative algorithm is used to update the solution until convergence. Therefore, an state initialization of the system is required for the non-linear system, at which we linearize the system and update the state based on the initialization in each iteration.
 
  We have all the odometry and observation data and iteratively optimize the non-linear SLAM problem to get the states of robot pose and landmarks all in once:
 
@@ -41,7 +45,6 @@ Because the state vector includes both robot poses and landmarks position, there
                 ....
                 [dhm/dx1, dhm/dx2, ..., dhm/dxn]]
 ```
-
 
 
 ## Academic Integrity Policy
